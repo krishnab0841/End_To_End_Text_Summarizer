@@ -1,6 +1,6 @@
-from textSummarizer.config.configuration import ConfigurationManager
-from textSummarizer.conponents.data_ingestion import DataIngestion
-from textSummarizer.logging import logger
+from TextSummarizer.config.configuration import ConfigurationManager
+from TextSummarizer.components.data_ingestion import DataIngestion
+from TextSummarizer.logging import logger
 
 
 class DataIngestionTrainingPipeline:
